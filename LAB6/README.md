@@ -3,7 +3,7 @@
 - **Họ và tên:** Bùi Ngọc Huy
 - **Mã số sinh viên:** 1150080137
 - **Tên bài Lab:** Lab 6 XÁC THỰC ACTIVE DIRECTORY VÀ CHÍNH SÁCH TRUY CẬP TRÊN PFSENSE
-- **Link Video thực hành (YouTube):** Word
+- **Link Video thực hành (YouTube):** [(https://youtu.be/zILYo0ulQ5A?si=JaO47EqlrxiHZQm4)]
 
 ## 1. Nội dung đã thực hiện
 - Khởi tạo kiến trúc mạng 4 Interface: Tận dụng và chuẩn hóa pfSense gồm 4 giao diện mạng độc lập: WAN (NAT/Internet), MGMT (192.168.56.254/24 - chuyên biệt cho máy thật quản trị WebGUI), LAN (10.6.0.1/24 - kết nối DC01, Client-A, Client-B) và DMZ (172.16.6.1/24 - kết nối máy chủ DMZ-WEB).
