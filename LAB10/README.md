@@ -4,6 +4,8 @@
 - **Mã số sinh viên:** 1150080137
 - **Tên bài Lab:** LAB 10 - MÃ HÓA ĐỐI XỨNG CỔ ĐIỂN VÀ ỨNG DỤNG
 - **Link Video thực hành (YouTube):** https://youtu.be/mIOsUaR2POw
+- **Link Video thực hành (YouTube)bổ sung:** https://youtu.be/Cv3e57lcb8g
+
 
 ## 1. Nội dung đã thực hiện
 - **Xây dựng lớp đọc/ghi tệp tiện ích `FileTextIO` và giao diện chuẩn:**
